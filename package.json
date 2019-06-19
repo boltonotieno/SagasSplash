@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/BoltC0rt3z/SagasSplash/issues"
   },
-  "homepage": "https://github.com/BoltC0rt3z/SagasSplash#readme",
+  "homepage": "https://boltc0rt3z.github.io/SagasSplash",
   "dependencies": {
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
